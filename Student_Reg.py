@@ -1,0 +1,5 @@
+Name = input("Enter your name: ")
+USN = input("Enter your USN: ")
+Section = input("Enter your Section: ")
+Semester = input("Enter your Semester: ")
+print(f"Hello {Name}, your USN is {USN}, you are in Section {Section}, and you are in Semester {Semester}.")
